@@ -23,7 +23,7 @@ April 01,2021 | [Portfolio](https://flaakira.github.io/flavio_akira_portfolio/)|
   I’m currently applying to jobs in Data Analyst, Business Analyst, Machine Learning, and Data Sciences. If you are looking for a hardworking team member, look no further!
   
  
-👨‍🎓 I’m currently data analyst student
+👨‍🎓 I’m currently [data analyst student](https://www.sait.ca/programs-and-courses/certificates/data-analytics-part-time)
 
 💼  How to reach me: [Linkedin](https://www.linkedin.com/in/flavio-akira/?locale=en_US)
 
