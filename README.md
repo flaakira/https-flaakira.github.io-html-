@@ -9,7 +9,9 @@ Ano | Project | Language | Title
 :--- | :--- | :--- | :---
 May 14, 2020 | [Kagle- Titanic](https://github.com/flaakira/Kaggle/blob/master/Titanic.ipynb) | Python | Machine Learning from Disaster
 May 20, 2020 | [House Prices](https://github.com/flaakira/Kaggle/blob/master/House_prices.ipynb) | Python | Advanced Regression Techniques
-March 12,2021 | [website](https://github.com/flaakira/curso_html) | Javascript-Html-Css  | ~~Underconstruction~~
+March 12,2021 | [website/blog](https://github.com/flaakira/curso_html) | Javascript-Html-Css  | 
+share my knowledge and give tips about technology ~~Underconstruction~~
+April 01,2021 | [Portfolio](https://flaakira.github.io/flavio_akira_portfolio/)| Markdown| Personal Data Analyst Portfolio~~Underconstruction~~
 
 
 
