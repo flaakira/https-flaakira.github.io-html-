@@ -7,10 +7,10 @@ A few interesting things about me. Moved to this new city and living so close to
 
 Ano | Project | Language | Title
 :--- | :--- | :--- | :---
-May 14, 2020 | [Kagle- Titanic](https://github.com/flaakira/Kaggle/blob/master/Titanic.ipynb) | Python | Machine Learning from Disaster
+May 14, 2020 | [Titanic](https://github.com/flaakira/Kaggle/blob/master/Titanic.ipynb) | Python | Machine Learning from Disaster
 May 20, 2020 | [House Prices](https://github.com/flaakira/Kaggle/blob/master/House_prices.ipynb) | Python | Advanced Regression Techniques
 March 12,2021 | [website/blog](https://github.com/flaakira/curso_html) | Javascript-Html-Css  | 
-share my knowledge and give tips about technology ~~Underconstruction~~
+share, knowledge and tips about technology ~~Underconstruction~~
 April 01,2021 | [Portfolio](https://flaakira.github.io/flavio_akira_portfolio/)| Markdown| Personal Data Analyst Portfolio~~Underconstruction~~
 
 
