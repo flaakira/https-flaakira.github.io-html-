@@ -28,6 +28,6 @@ March 12,2021 | [website](https://github.com/flaakira/curso_html) | Javascript-H
 📁 Facebook: [Flavio Akira](https://www.facebook.com/flavioakira.tikaishi)
 
 
-:octocat:Github: [projects](https://github.com/flaakira?tab=repositories)
+:octocat: Github: [projects](https://github.com/flaakira?tab=repositories)
 
 
