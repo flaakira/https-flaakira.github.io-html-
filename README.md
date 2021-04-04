@@ -1,4 +1,6 @@
-Hello World :earth_americas:! And Welcome.
+Hello World :earth_americas:! And Welcome. 
+
+| [Portfolio](https://flaakira.github.io/flavio_akira_portfolio/)|
 
 My name is [**Flavio Akira**](https://www.linkedin.com/in/flavio-akira/?locale=en_US) and I'm a **Data Analyst** student at Southern Alberta Institute of Technology [SAIT](https://www.sait.ca/programs-and-courses/certificates/data-analytics-part-time) and graduated in economics. I strongly believe using data-driven we can help businesses to move forward and from ideas and right questions around what you want to measure and how to capture data accurately, prepare data, analysis and management, to a clean, organized, and understandable presentation. In 2017 I moved to Canada. That moment because of necessity and to open my mind to learn something new I started to work in different fields from construction to cook. That was very challenging and motivate, principal for someone that always works in the office. Now, after setting up my life here in Calgary. I feel comfortable returning to my origins and start a new page as Data Analyst.  
 
@@ -10,7 +12,7 @@ Ano | Project | Language | Title
 May 14, 2020 | [Titanic](https://github.com/flaakira/Kaggle/blob/master/Titanic.ipynb) | Python | Machine Learning from Disaster
 May 20, 2020 | [House Prices](https://github.com/flaakira/Kaggle/blob/master/House_prices.ipynb) | Python | Advanced Regression Techniques
 March 12,2021 Underconstruction| [website/blog](https://github.com/flaakira/curso_html) | Javascript-Html-Css  | Knowledge and tips about technology 
-April 01,2021 | [Portfolio](https://flaakira.github.io/flavio_akira_portfolio/)| Markdown| Personal Data Analyst Portfolio
+April 01,2021 | [Portfolio](https://github.com/flaakira/flavio_akira_portfolio/blob/gh-pages/index.md)| Markdown| Personal Data Analyst Portfolio
 
 
 
