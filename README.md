@@ -35,6 +35,7 @@ April 01,2021 | [Portfolio](https://github.com/flaakira/flavio_akira_portfolio/b
 
 📁 Facebook: [Flavio Akira](https://www.facebook.com/flavioakira.tikaishi)
 
+✉️ Email: [Email](mailto:fla_akira@hotmail.com?subject=[GitHub])
 
 :octocat: Github: [projects](https://github.com/flaakira?tab=repositories)
 
