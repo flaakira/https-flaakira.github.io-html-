@@ -25,15 +25,15 @@ April 01,2021 | [Portfolio](https://github.com/flaakira/flavio_akira_portfolio/b
   I’m currently applying to jobs in Data Analyst, Business Analyst, Machine Learning, and Data Sciences. If you are looking for a hardworking team member, look no further!
   
  
-🧑‍🎓I’m currently [Data Analyst student](https://www.sait.ca/programs-and-courses/certificates/data-analytics-part-time)
+🎓 I’m currently [Data Analyst student](https://www.sait.ca/programs-and-courses/certificates/data-analytics-part-time)
 
-💼  How to reach me: [Linkedin](https://www.linkedin.com/in/flavio-akira/?locale=en_US)
+💼 How to reach me: [Linkedin](https://www.linkedin.com/in/flavio-akira/?locale=en_US)
 
 🖥️ Portfolio: [Portfolio](https://flaakira.github.io/flavio_akira_portfolio/)
 
-📸  Instagram: [@flaakira](https://www.instagram.com/flaakira/)
+📸 Instagram: [@flaakira](https://www.instagram.com/flaakira/)
 
-💻Facebook: [Flavio Akira](https://www.facebook.com/flavioakira.tikaishi)
+💻 Facebook: [Flavio Akira](https://www.facebook.com/flavioakira.tikaishi)
 
 ✉️ Email: [Email](mailto:fla_akira@hotmail.com?subject=[GitHub])
 
