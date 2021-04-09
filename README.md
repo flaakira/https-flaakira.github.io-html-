@@ -12,7 +12,7 @@ Ano | Project | Language | Title
 :--- | :--- | :--- | :---
 May 14, 2020 | [Titanic](https://github.com/flaakira/Kaggle/blob/master/Titanic.ipynb) | Python | Machine Learning from Disaster
 May 20, 2020 | [House Prices](https://github.com/flaakira/Kaggle/blob/master/House_prices.ipynb) | Python | Advanced Regression Techniques
-March 12,2021 Underconstruction| [website/blog](https://github.com/flaakira/curso_html) | Javascript-Html-Css  | Knowledge and tips about technology 
+March 12,2021 | [Context for Data Analyst](https://github.com/flaakira/Data-Analyst---SAIT/tree/master/Data%20Preparation%20-%20Covid-19) | Excel- PowerBI- SQL | Questions business decisions
 April 01,2021 | [Portfolio](https://github.com/flaakira/flavio_akira_portfolio/blob/gh-pages/index.md)| Markdown| Personal Data Analyst Portfolio
 
 
