@@ -3,9 +3,16 @@ Welcome!
 Hello World :earth_americas:!
 
 
-My name is [**Flavio Akira**](https://www.linkedin.com/in/flavio-akira/?locale=en_US) and I'm a **Data Analyst** student at Southern Alberta Institute of Technology [SAIT](https://www.sait.ca/programs-and-courses/certificates/data-analytics-part-time) and graduated in economics. I strongly believe using data-driven we can help businesses to move forward and from ideas and right questions around what you want to measure and how to capture data accurately, prepare data, analysis and management, to a clean, organized, and understandable presentation. In 2017 I moved to Canada. That moment because of necessity and to open my mind to learn something new I started to work in different fields from construction to cook. That was very challenging and motivate, principal for someone that always works in the office. Now, after setting up my life here in Calgary. I feel comfortable returning to my origins and start a new page as Data Analyst.  
+My name is [**Flavio Akira**](https://www.linkedin.com/in/flavio-akira/?locale=en_US).
+I am a Data Analyst student at Southern Alberta Institute of Technology - SAIT and bachelor in Economics. I strongly believe that using data-driven we can help businesses to move forward. Once you put together ideas and knowing the correct questions to be made as – what I really need? How can I improve? what Can I change? and etc. You are able to capture data accurately and prepare an analysis. Resulting in a clean, organized, and understandable data presentation. 
+In 2017, I have moved to Canada. Looking for a fresh and new starting, I have engaged myself in the data world, and now, after setting up in Calgary. I felt the motivation needed to explore and learn more about Data Analysis.
 
-A few interesting things about me. Moved to this new city and living so close to rocky mountains I learn and feel passionate about hiking and living the natural life. Dailly in my free time I like to play competitive strategy games as Moba games. I challenge myself every day I push myself to learn something new, get out of the comfort zone. That's why I decided to change my career to the technology field. I started learning data analyst/science with machine learning, SQL, Python, Math, and Statistical Methods. As a hobby, I started to program in Javascript and develop in CSS and HTML.
+A few interesting facts about me. 
+-Moving to this new city and living so close to Rocky Mountains I can tell I have felt in love with hiking and I am grateful for this connection to the nature. 
+-On my free time, I like to play competitive strategy games as Moba games. 
+- I challenge and push myself to at least learn one new thing every day, getting out of the comfort doesn’t bother me at all. 
+That is why I decided to change my career to the technology field. I started learning data analyst/science with machine learning, SQL, Python, Math, and Statistical Methods. As a hobby; I have started programing in Javascript and developing in CSS and HTML.
+
 
 
 Ano | Project | Language | Title
