@@ -8,8 +8,11 @@ I am a Data Analyst student at Southern Alberta Institute of Technology - SAIT a
 In 2017, I have moved to Canada. Looking for a fresh and new starting, I have engaged myself in the data world, and now, after setting up in Calgary. I felt the motivation needed to explore and learn more about Data Analysis.
 
 A few interesting facts about me. 
--Moving to this new city and living so close to Rocky Mountains I can tell I have felt in love with hiking and I am grateful for this connection to the nature. 
--On my free time, I like to play competitive strategy games as Moba games. 
+
+- Moving to this new city and living so close to Rocky Mountains I can tell I have felt in love with hiking and I am grateful for this connection to the nature. 
+
+- On my free time, I like to play competitive strategy games as Moba games. 
+
 - I challenge and push myself to at least learn one new thing every day, getting out of the comfort doesn’t bother me at all. 
 That is why I decided to change my career to the technology field. I started learning data analyst/science with machine learning, SQL, Python, Math, and Statistical Methods. As a hobby; I have started programing in Javascript and developing in CSS and HTML.
 
