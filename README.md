@@ -25,6 +25,7 @@ May 20, 2020 | [House Prices](https://github.com/flaakira/Kaggle/blob/master/Hou
 March 12,2021 | [Context for Data Analyst](https://github.com/flaakira/Data-Analyst---SAIT/tree/master/Data%20Preparation%20-%20Covid-19) | Excel- PowerBI- SQL | Questions business decisions
 April 01,2021 | [Portfolio](https://github.com/flaakira/flavio_akira_portfolio/blob/gh-pages/index.md)| Markdown | Personal Data Analyst Portfolio
 April 19,2021 | [Webscraping](https://github.com/flaakira/Web_scraping) | Python | BeautifulSoup - Requests 
+May 05, 20201 | Under- construction | Data Modeling/ Cleasing |SQL/Python
 
 
 
