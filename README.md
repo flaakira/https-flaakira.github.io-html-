@@ -1,20 +1,29 @@
-Welcome!
+<h1>Welcome!</h1>
 
-Hello World :earth_americas:!
+<h2>Hello World :earth_americas:!</h2>
 
 
 My name is [**Flavio Akira**](https://www.linkedin.com/in/flavio-akira/?locale=en_US).
 I am a Data Analyst student at Southern Alberta Institute of Technology - SAIT and bachelor in Economics. I strongly believe that using data-driven we can help businesses to move forward. Once you put together ideas and knowing the correct questions to be made as – what I really need? How can I improve? what Can I change? and etc. You are able to capture data accurately and prepare an analysis. Resulting in a clean, organized, and understandable data presentation. 
 In 2017, I have moved to Canada. Looking for a fresh and new starting, I have engaged myself in the data world, and now, after setting up in Calgary. I felt the motivation needed to explore and learn more about Data Analysis.
+<br>
 
-A few interesting facts about me. 
+ <div>
+  <a href="https://github.com/flaakira">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=flaakira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaakira&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+ ![Snake animation](https://github.com/flaakira/flaakira/blob/output/github-contribution-grid-snake.svg)
+ 
+<p>A few interesting facts about me. 
 
 - Moving to this new city and living so close to Rocky Mountains I can tell I have felt in love with hiking and I am grateful for this connection to the nature. 
 
 - On my free time, I like to play competitive strategy games as Moba games. 
 
 - I challenge and push myself to at least learn one new thing every day, getting out of the comfort doesn’t bother me at all. 
-That is why I decided to change my career to the technology field. I started learning data analyst/science with machine learning, SQL, Python, Math, and Statistical Methods. As a hobby; I have started programing in Javascript and developing in CSS and HTML.
+That is why I decided to change my career to the technology field. I started learning data analyst/science with machine learning, SQL, Python, Math, and Statistical Methods. As a hobby; I have started programing in Javascript and developing in CSS and HTML.</p>
 
 
 
