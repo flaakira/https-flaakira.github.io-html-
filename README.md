@@ -32,7 +32,7 @@ March 12,2021 | [Context for Data Analyst](https://github.com/flaakira/Data-Anal
 April 01,2021 | [Portfolio](https://github.com/flaakira/flavio_akira_portfolio/blob/gh-pages/index.md)| Markdown | Personal Data Analyst Portfolio
 April 19,2021 | [Webscraping](https://github.com/flaakira/Web_scraping) | Python | BeautifulSoup - Requests 
 May 17, 20201 | [Exercises Project](https://github.com/flaakira/Project--exercises) | Excel - PowerBI | Workout exercises
-May 05, 20201 | [Data_Modeling](https://github.com/flaakira/Data_Modeling_-Cleansing) -Under_Construction| Data Modeling/ Cleansing |SQL/Python
+August 03, 20201 | [Portfolio HTML](https://github.com/flaakira/Data_Modeling_-Cleansing) -Under_Construction| HTML/CSS/JavaScript
 
 
 
