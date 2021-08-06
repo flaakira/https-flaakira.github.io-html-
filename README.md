@@ -10,6 +10,8 @@ In 2017, I have moved to Canada. Looking for a fresh and new starting, I have en
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaakira&theme=chartreuse-dark&show_icons=true)
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaakira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
 ![Snake animation](https://github.com/flaakira/flaakira/blob/output/github-contribution-grid-snake.svg)
  
