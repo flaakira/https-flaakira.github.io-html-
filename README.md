@@ -47,24 +47,24 @@ August 03, 20201 | [Portfolio HTML](https://github.com/flaakira/flaakira/tree/ma
   
  
 🎓 I’m currently Data Analyst student at Southern Alberta Institute of Technology (SAIT)<br>
-  <a href="https://www.sait.ca/programs-and-courses/certificates/data-analytics-part-time" target="_blank"><img src="https://img.shields.io/badge/CollegeCode-Repo-red.svg" target="_blank"></a> 
+  <a href="https://www.sait.ca/programs-and-courses/certificates/data-analytics-part-time"><img src="https://img.shields.io/badge/CollegeCode-Repo-red.svg"></a> 
 
 💼 How to reach me <br>
-  <a href="https://www.linkedin.com/in/flavio-akira/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/flavio-akira/?locale=en_US"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 🖥️ Portfolio <br>
-  <a href="https://flaakira.github.io/flavio_akira_portfolio/" target="_blank"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" target="_blank"></a> 
+  <a href="https://flaakira.github.io/flavio_akira_portfolio/"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a> 
 
 📸 Instagram <br>
-  <a href="https://www.instagram.com/flaakira/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/flaakira/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 
 💻 Facebook <br>
-  <a href="https://www.facebook.com/flavioakira.tikaishi" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+  <a href="https://www.facebook.com/flavioakira.tikaishi" ><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" ></a> 
 
 ✉️ Email <br>
   [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:luizcarlos_abbott@hotmail.com)](mailto:fla_akira@hotmail.com)
 
 :octocat: Github <br>
-  <a href="https://github.com/flaakira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/flaakira"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
 
 
