@@ -39,6 +39,7 @@ August 03, 20201 | [Portfolio HTML](https://github.com/flaakira/flaakira/tree/ma
 
 
 <details>
+  
   <summary>Contact</summary>
   
   
