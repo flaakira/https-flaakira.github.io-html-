@@ -53,7 +53,7 @@ August 03, 20201 | [Portfolio HTML](https://github.com/flaakira/flaakira/tree/ma
   <a href="https://www.linkedin.com/in/flavio-akira/?locale=en_US"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 🖥️ Portfolio <br>
-  <a href="https://flaakira.github.io/flavio_akira_portfolio/"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a> 
+  <a href="https://flaakira.github.io/"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a> 
 
 📸 Instagram <br>
   <a href="https://www.instagram.com/flaakira/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
