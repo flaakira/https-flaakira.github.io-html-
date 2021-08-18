@@ -29,7 +29,7 @@ That is why I decided to change my career to the technology field. I started lea
 Start Date | Project | Language | Title
 :--- | :--- | :--- | :---
 05/14/2020 | [Titanic](https://github.com/flaakira/Kaggle/blob/master/Titanic.ipynb) | Python | Machine Learning from Disaster
-May/20/2020 | [House Prices](https://github.com/flaakira/Kaggle/blob/master/House_prices.ipynb) | Python | Advanced Regression Techniques
+05/20/2020 | [House Prices](https://github.com/flaakira/Kaggle/blob/master/House_prices.ipynb) | Python | Advanced Regression Techniques
 03/12/2021 | [Context for Data Analyst](https://github.com/flaakira/Data-Analyst---SAIT/tree/master/Data%20Preparation%20-%20Covid-19) | Excel- PowerBI- SQL | Questions business decisions
 04/01/2021 | [Portfolio](https://github.com/flaakira/flavio_akira_portfolio/blob/gh-pages/index.md)| Markdown | Personal Data Analyst Portfolio
 04/19/2021 | [Webscraping](https://github.com/flaakira/Web_scraping) | Python | BeautifulSoup - Requests 
