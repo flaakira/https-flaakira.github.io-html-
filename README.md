@@ -36,7 +36,7 @@ Start Date | Project | Language | Title
 08/03/2021 | [Portfolio HTML](https://github.com/flaakira/flaakira.github.io) | HTML - CSS - JavaScript | Structured Personal Data Analyst Portfolio
 
 
-  
+ <details>
   <summary>Contact</summary>
   
   
