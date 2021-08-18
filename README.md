@@ -42,9 +42,6 @@ Start Date | Project | Language | Title
   
   I’m currently applying to jobs in Data Analyst, Business Analyst, Machine Learning, and Data Sciences. If you are looking for a hardworking team member, look no further!
   
- 
-🎓 I’m currently Data Analyst student at Southern Alberta Institute of Technology (SAIT)<br>
-  <a href="https://www.sait.ca/programs-and-courses/certificates/data-analytics-part-time"><img src="https://img.shields.io/badge/CollegeCode-Repo-red.svg"></a> 
 
 💼 How to reach me <br>
   <a href="https://www.linkedin.com/in/flavio-akira/?locale=en_US"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
@@ -57,6 +54,9 @@ Start Date | Project | Language | Title
 
 💻 Facebook <br>
   <a href="https://www.facebook.com/flavioakira.tikaishi" ><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" ></a> 
+  
+🎓 I’m currently Data Analyst student at Southern Alberta Institute of Technology (SAIT)<br>
+  <a href="https://www.sait.ca/programs-and-courses/certificates/data-analytics-part-time"><img src="https://img.shields.io/badge/CollegeCode-Repo-red.svg"></a> 
 
 ✉️ Email <br>
   [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:luizcarlos_abbott@hotmail.com)](mailto:fla_akira@hotmail.com)
