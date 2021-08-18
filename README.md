@@ -35,8 +35,7 @@ Start Date | Project | Language | Title
 05/17/2021 | [Exercises Project](https://github.com/flaakira/Project--exercises) | Excel - PowerBI | Workout exercises
 08/03/2021 | [Portfolio HTML](https://github.com/flaakira/flaakira.github.io) | HTML - CSS - JavaScript | Structured Personal Data Analyst Portfolio
 
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaakira&layout=compact&langs_count=7&theme=dracula"/>
-<details>
+
   
   <summary>Contact</summary>
   
