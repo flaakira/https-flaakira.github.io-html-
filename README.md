@@ -10,7 +10,7 @@ In 2017, I have moved to Canada. Looking for a fresh and new starting, I have en
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaakira&theme=chartreuse-dark&show_icons=true)
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaakira&layout=compact&langs_count=7&theme=dracula"/>
+  
 </div>
   
 ![Snake animation](https://github.com/flaakira/flaakira/blob/output/github-contribution-grid-snake.svg)
@@ -35,7 +35,7 @@ Start Date | Project | Language | Title
 05/17/2021 | [Exercises Project](https://github.com/flaakira/Project--exercises) | Excel - PowerBI | Workout exercises
 08/03/2021 | [Portfolio HTML](https://github.com/flaakira/flaakira.github.io) | HTML - CSS - JavaScript | Structured Personal Data Analyst Portfolio
 
-
+<img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaakira&layout=compact&langs_count=7&theme=dracula"/>
 <details>
   
   <summary>Contact</summary>
