@@ -34,7 +34,7 @@ Start Date | Project | Language | Title
 04/19/2021 | [Webscraping](https://github.com/flaakira/Web_scraping) | Python | BeautifulSoup - Requests 
 05/17/2021 | [Exercises Project](https://github.com/flaakira/Project--exercises) | Excel - PowerBI | Workout exercises
 08/03/2021 | [Portfolio HTML](https://github.com/flaakira/flaakira.github.io) | HTML - CSS - JavaScript | Structured Personal Data Analyst Portfolio
-26/08/2021 | [WebScraping](https://github.com/flaakira/flaakira.github.io) | Pandas - Datareader - Datetime | Scraping currency and stock 
+26/08/2021 | [WebScraping](https://github.com/flaakira/Web_scraping/blob/main/currency_stock/webscraping-currency-or-stock.ipynb) | Pandas - Datareader - Datetime | Scraping currency and stock 
 
 
  <details>
