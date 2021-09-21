@@ -29,12 +29,12 @@ Start Date | Project | Language | Title
 :---: | :--- | :--- | :---
 05/14/2020 | [Titanic](https://github.com/flaakira/Kaggle/blob/master/Titanic.ipynb) | Python | Machine Learning from Disaster
 05/20/2020 | [House Prices](https://github.com/flaakira/Kaggle/blob/master/House_prices.ipynb) | Python | Advanced Regression Techniques
-03/12/2021 | [Context for Data Analyst](https://github.com/flaakira/Data-Analyst---SAIT/tree/master/Data%20Preparation%20-%20Covid-19) | Excel- PowerBI- SQL | Questions business decisions
+03/12/2021 | [Context for Data Analyst](https://github.com/flaakira/Data-Analyst---SAIT/tree/master/Data%20Preparation%20-%20Covid-19) | Excel / PowerBI / SQL | Questions business decisions
 04/01/2021 | [Portfolio](https://github.com/flaakira/flavio_akira_portfolio/blob/gh-pages/index.md)| Markdown | Personal Data Analyst Portfolio
-04/19/2021 | [Webscraping](https://github.com/flaakira/Web_scraping) | Python | BeautifulSoup - Requests 
-05/17/2021 | [Exercises Project](https://github.com/flaakira/Project--exercises) | Excel - PowerBI | Workout exercises
-08/03/2021 | [Portfolio HTML](https://github.com/flaakira/flaakira.github.io) | HTML - CSS - JavaScript | Structured Personal Data Analyst Portfolio
-26/08/2021 | [WebScraping](https://github.com/flaakira/Web_scraping/blob/main/currency_stock/webscraping-currency-or-stock.ipynb) | Pandas - Datareader - Datetime | Scraping currency and stock 
+04/19/2021 | [Webscraping](https://github.com/flaakira/Web_scraping) | Python | BeautifulSoup / Requests 
+05/17/2021 | [Exercises Project](https://github.com/flaakira/Project--exercises) | Excel / PowerBI | Workout exercises
+08/03/2021 | [Portfolio HTML](https://github.com/flaakira/flaakira.github.io) | HTML / CSS / JavaScript | Structured Personal Data Analyst Portfolio
+26/08/2021 | [WebScraping](https://github.com/flaakira/Web_scraping/blob/main/currency_stock/webscraping-currency-or-stock.ipynb) | Pandas / Datareader / Datetime | Scraping currency and stock 
 
 
  <details>
