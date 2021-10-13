@@ -38,7 +38,7 @@ Start Date | Project | Language | Title
 
 
  <details>
-  <summary>Contact</summary>
+  <h1><summary>Contact</summary></h1>
   
   
   I’m currently applying to jobs in Data Analyst, Business Analyst, Machine Learning, and Data Sciences. If you are looking for a hardworking team member, look no further!
