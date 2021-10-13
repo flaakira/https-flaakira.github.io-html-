@@ -39,8 +39,7 @@ Start Date | Project | Language | Title
 
  <details><summary><h1>Click here to see my links/contacts.</h1></summary>
   
-  
-  I’m currently applying to jobs in Data Analyst, Business Analyst, Machine Learning, and Data Sciences. If you are looking for a hardworking team member, look no further!
+  <p> To access the link, you need to click on the image.😉</p>
   
 
 💼 How to reach me <br>
