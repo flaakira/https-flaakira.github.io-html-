@@ -37,7 +37,7 @@ Start Date | Project | Language | Title
 26/08/2021 | [WebScraping](https://github.com/flaakira/Web_scraping/blob/main/currency_stock/webscraping-currency-or-stock.ipynb) | Pandas / Datareader / Datetime | Scraping currency and stock 
 
 
- <details><summary><h1>Contact</h1></summary>
+ <details><summary><h1>Click here to see my links/contacts.</h1></summary>
   
   
   I’m currently applying to jobs in Data Analyst, Business Analyst, Machine Learning, and Data Sciences. If you are looking for a hardworking team member, look no further!
