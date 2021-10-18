@@ -39,7 +39,7 @@ Start Date | Project | Language | Title
 
  <details><summary><h1>Click here to see my links/contacts.</h1></summary>
   
-  <p> To access the link, you need to click on the image.😉</p>
+ 
   
 
 💼 How to reach me <br>
