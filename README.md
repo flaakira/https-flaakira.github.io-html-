@@ -4,7 +4,7 @@
 
 
 My name is [**Flavio Akira**](https://www.linkedin.com/in/flavio-akira/?locale=en_US).
-I am a Data Analyst student at Southern Alberta Institute of Technology - SAIT and bachelor in Economics. I strongly believe that using data-driven we can help businesses to move forward. Once you put together ideas and knowing the correct questions to be made as – what I really need? How can I improve? what Can I change? and etc. You are able to capture data accurately and prepare an analysis. Resulting in a clean, organized, and understandable data presentation. 
+I am an HR/IT Data Business Intelligence Analyst at Brandt, a Data Analyst student at Southern Alberta Institute of Technology - SAIT and a bachelor's in Economics.  I strongly believe that using data-driven we can help businesses to move forward. Once you put together ideas and knowing the correct questions to be made as – what I really need? How can I improve? what Can I change? and etc. You are able to capture data accurately and prepare an analysis. Resulting in a clean, organized, and understandable data presentation. 
 In 2017, I have moved to Canada. Looking for a fresh and new starting, I have engaged myself in the data world, and now, after setting up in Calgary. I felt the motivation needed to explore and learn more about Data Analysis.
 <br>
 
