@@ -8,8 +8,6 @@ I am an HR/IT Data Business Intelligence Analyst at Brandt, a Data Analyst stude
 In 2017, I have moved to Canada. Looking for a fresh and new starting, I have engaged myself in the data world, and now, after setting up in Calgary. I felt the motivation needed to explore and learn more about Data Analysis.
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaakira&theme=chartreuse-dark&show_icons=true)
-
   
 </div>
   
